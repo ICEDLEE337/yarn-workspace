@@ -1,0 +1,19 @@
+{
+  "name": "@onivoro/yarn-workspace",
+  "version": "1.0.0",
+  "description": "testing package sizes with yarn workspace feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onivoro/yarn-workspace.git"
+  },
+  "author": "lee.e.norris@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onivoro/yarn-workspace/issues"
+  },
+  "homepage": "https://github.com/onivoro/yarn-workspace#readme"
+}
