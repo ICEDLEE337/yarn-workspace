@@ -1,5 +1,6 @@
-const a = require('workspace-a');
+const a = require('../workspace-a/a.service');
+const { of } = require('rxjs');
 
 module.exports = function b() {
-    console.log(a());
+    return a() || typeof of
 };
